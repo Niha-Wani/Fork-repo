@@ -1,2 +1,3 @@
 # demo-repo
-hello git!
+Hello Git!
+This is my first GitHub Repository
